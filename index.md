@@ -6,6 +6,7 @@ This will serve as a brief description of your project. Limit this to three sent
 | Samuel Nolan | University of Michigan | Electrical Engineering | Sophmore
 
 ---
+
 Foxes are small to medium-sized, omnivorous mammals belonging to several genera of the family Canidae. They have a flattened skull, upright triangular ears, a pointed, slightly upturned snout, and a long bushy tail (or brush).
 
 Twelve species belong to the monophyletic "true foxes" group of genus Vulpes. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of the bat-eared fox, gray fox, and island fox.
