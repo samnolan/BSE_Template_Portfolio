@@ -20,7 +20,7 @@ Here is a video looking at fox in the wild. It's pretty cute
 
 [![Fox video](https://res.cloudinary.com/marcomontalbano/image/upload/v1623509430/video_to_markdown/images/youtube--hRFUcY61Zi0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=hRFUcY61Zi0 "Fox video"){:target="_blank" rel="noopener"}
 
-Here's a fox pic that I linked in a folder to practice that.
+Here's a fox pic that I linked in a folder which is where the majority of your photos will be.
 
 
 ![Schematic](images/foxpic.jfif)
