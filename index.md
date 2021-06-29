@@ -25,7 +25,9 @@ Here's a fox pic that I linked in a folder which is where the majority of your p
 
 ![Schematic](images/foxpic.jfif)
 
-![robotarm](images1/P2_Maize_2018.png){:height="100px" width="100px"}
+![robotarm](images1/P2_Maize_2018.png)
+
+<img src="https://github.com/samnolan/samnolanBSE_Template_Portfolio/edit/gh-pages/images1/P2_Maize_2018.png" width=300 align=left>
 
 
 [//]: <> (This is also a comment. weofmwpgomwqrpgomqwrgpwqrmg[owmqgqwomrgpqwormgwqpormommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm)
