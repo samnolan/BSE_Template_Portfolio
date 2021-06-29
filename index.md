@@ -25,7 +25,7 @@ Here's a fox pic that I linked in a folder which is where the majority of your p
 
 ![Schematic](images/foxpic.jfif)
 
-![robotarm](images1/P2_Maize_2018.png)
+![robotarm](images1/P2_Maize_2018.png){:height="700px" width="400px"}
 
 
 [//]: <> (This is also a comment. weofmwpgomwqrpgomqwrgpwqrmg[owmqgqwomrgpqwormgwqpormommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm)
