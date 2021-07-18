@@ -31,9 +31,11 @@ Here's a fox pic that I linked in a folder which is where the majority of your p
 Twelve species belong to the monophyletic "true foxes" group of genus Vulpes. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of the bat-eared fox, gray fox, and island fox.
 
 ![robotarm](images1/P2_Maize_2018.png)
+<br>
 
 [blink Sketch](code/blink.ino)
 
+<br>
 
 <HTML>
   
