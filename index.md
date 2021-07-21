@@ -36,7 +36,10 @@ Twelve species belong to the monophyletic "true foxes" group of genus Vulpes. Ap
 # [blink Sketch](code/blink.ino)
 
 <HTML>
-  <span style="color:blue">some *blue* text</span>.
+  <figure>
+  <img src="images/foxpic.jfif" width=300 align=left style="float:left; padding-right:10px">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
 
 </HTML>
 
