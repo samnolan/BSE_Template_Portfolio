@@ -46,11 +46,7 @@ Twelve species belong to the monophyletic "true foxes" group of genus Vulpes. Ap
 
 <br>
 
-<HTML>
-  
- <img src="images/IMG_9721.heic" width=300 align=left style="float:left; padding-right:10px"> Foxes live on every continent except Antarctica. The most common and widespread species of fox is the red fox (Vulpes vulpes) with about 47 recognized subspecies. The global distribution of foxes, together with their widespread reputation for cunning, has contributed to their prominence in popular culture and folklore in many societies around the world. The hunting of foxes with packs of hounds, long an established pursuit in Europe, especially in the British Isles, was exported by European settlers to various parts of the New World.
-  
-</HTML>
+
 
 
 [//]: <> (This is also a comment. weofmwpgomwqrpgomqwrgpwqrmg[owmqgqwomrgpqwormgwqpormommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm)
