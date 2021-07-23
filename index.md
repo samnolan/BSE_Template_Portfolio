@@ -36,7 +36,7 @@ Twelve species belong to the monophyletic "true foxes" group of genus Vulpes. Ap
 # [blink Sketch](code/blink.ino)
 
 <HTML>
-  <img src="images/foxpic.jfif" width=300 align = "left"><img src="images/foxpic.jfif" width=300>  <img src="images/foxpic.jfif" width=300 align = "right">
+  <img src="images/foxpic.jfif" width=300 align = "left"><img src="images/foxpic.jfif" width=300 align = "left">  <img src="images/foxpic.jfif" width=300 align = "right">
 
 
 </HTML>
